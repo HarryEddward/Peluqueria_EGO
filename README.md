@@ -1,4 +1,5 @@
 # Configuración Servidor Peluquería EGO
 
--Inició de sesión: maelsilvero
--Contraseña: AXGRbLjzQsMChDnJWdUpNr
+- Inició de sesión: maelsilvero
+
+- Contraseña: AXGRbLjzQsMChDnJWdUpNr
